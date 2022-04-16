@@ -1,0 +1,10 @@
+#切换到 java 操作 mq 的 配置文件
+#spring:
+#  profiles:
+#   active: javaopertion
+
+#切换到 springboot 操作 mq 的 配置文件
+spring:
+  profiles:
+    active: springbootoperation
+

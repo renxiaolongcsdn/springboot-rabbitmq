@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+mq:
+  host: 101.132.174.238
+  port: 5672
+  userName: ceshi
+  pwd: ceshi
+  virtualHost: /ceshi    # 必须以 / 开头
